@@ -1,0 +1,46 @@
+body {
+margin: 0;
+padding:0;
+}
+.header {
+  padding: 0;
+margin:0;
+  text-align: left;
+  color: black;
+}
+.menu {
+margin: 0;
+padding: 0;
+text-align: right;
+color: black;
+}
+.title {
+text-align: center;
+padding: 0;
+margin:0;
+}
+.content1 {
+text-align: center;
+position: relative;		
+height:20%;
+width:100%;
+text-decoration: row;
+background-color: green;
+box-sizing: border-box;
+}
+.content2 {
+position: relative;
+height: 20%;
+width: 100%;
+text-align: center;
+background-color: blue;
+box-sizing: border-box;
+}
+.content3 {
+position: relative;
+height: 20%;
+width: 100%;
+box-sizing: border-box;
+background-color: red;
+text-align: center;
+}
